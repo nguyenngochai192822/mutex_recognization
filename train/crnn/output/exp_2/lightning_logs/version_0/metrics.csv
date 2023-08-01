@@ -1,0 +1,9 @@
+lr-Adam,step,val_loss,epoch,train_loss,test_loss
+0.0005,0,,,,
+,143,nan,0,,
+,143,,0,nan,
+0.0005,144,,,,
+,287,nan,1,,
+,287,,1,nan,
+,288,,2,,nan
+,288,,2,,nan
